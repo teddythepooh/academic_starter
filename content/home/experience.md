@@ -18,27 +18,37 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Analyst"
+  company = "Emory Division of Pediatric Infectious Diseases"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Atlanta, GA"
+  date_start = "2019-09-01"
+  date_end = "2019-12-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Analyzed virus-cell fusions in Icy and ImageJ at the Melikian Lab to identify colocalizations, viral entry, and particles that culminate in infection
+  """
+[[experience]]
+  title = "Safety and Security Intern"
+  company = "Atlanta Department of Watershed Management"
+  company_url = ""
+  location = "Atlanta, GA"
+  date_start = "2019-05-01"
+  date_end = "2019-08-01"
+  description = """
+  * Communicated proper protocols of legally restoring service with Atlanta residents who are under investigation for illegal water consumption
+  * Researched properties flagged for water theft to determine discrepancies between tenant occupancy, billing information, and other relevant information
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Assistant"
+  company = "Emory Clinical Cardiovascular Research Institute"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Atlanta, GA"
+  date_start = "2018-09-01"
+  date_end = "2019-04-01"
+  description = """
+  * Collaborated with a team of researchers to manage the database of 7000+ patients who undergo cardiac catheterization at Emory University Hospital
+  * Evaluated diagnostic reports on patients’ cardiovascular health to gather relevant findings for research in the genetic basis of cardiovascular disease 
+  """
 
 +++
