@@ -22,8 +22,12 @@ subtitle = ""
   filter_default = 0
   
 [[content.filter_button]]
-name = " "
-tag = "*"
+name = "Portfolio"
+tag = "portfolio"
+
+[[content.filter_button]]
+name = "Training"
+tag = "portfolio"
   
 
 [design]
@@ -35,7 +39,7 @@ tag = "*"
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 1
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
