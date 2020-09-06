@@ -1,13 +1,37 @@
-widget = "blank"
-headless = true  # This file represents a page section.
-active = true
-weight = 35
+# This file represents a page section.
+headless: true
 
-# ... Put Your Section Options Here (title etc.) ...
-title = "Relevant Undergraduate Coursework"
+# Order that this section appears on the page.
+weight: 35
+
+title: Undergraduate Coursework
+subtitle:
+
+design:
+  columns: "1"
+---
+
+**Mathematics Courses**
+* Single Variable Calculus
+* Multivariable Calculus
+* Linear Algebra
+* Foundations of Mathematics
+* Mathematical Statistics I
+* Linear Optimization
+* Real Analysis I
+
+**Economics Courses**
+* Principles of Microeconomics, Principles of Macroeconomics
+* Probability and Statistics
+* Intermediate Microeconomics, Intermediate Macroeconomics
+* Econometrics, Financial Econometrics, Empirical Methods & Machine Learning
+
+**Computing Courses**
+* Introduction to Computer Science I (Java)
+* Introduction to Statistical Computing I & II (R)
+* Python Programming
+* Applied Regression Analysis
+* Statistical Modeling
 
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
 
