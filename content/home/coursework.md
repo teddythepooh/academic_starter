@@ -2,7 +2,7 @@
 widget: blank
 active: true
 headless: true
-weight: 35
+weight: 75
 
 title: Undergraduate Coursework
 subtitle:
