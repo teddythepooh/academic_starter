@@ -62,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth-year Mathematics and Economics major at Emory University. To prepare for graduate school in biostatistics, I am seeking public health positions involving data analysis.
+I am a fourth-year Mathematics and Economics major at Emory University. To prepare for graduate school in biostatistics, I am seeking research positions where I can apply my skills in data analysis. 
