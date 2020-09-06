@@ -28,7 +28,7 @@ design:
 3. Econometrics, Financial Econometrics
 4. Empirical Methods & Machine Learning
 
-**Technical Courses**
+**Miscellaneous Courses**
 1. Introduction to Computer Science (Java)
 2. Introduction to Statistical Computing (R)
 3. Python Programming
