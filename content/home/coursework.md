@@ -17,21 +17,24 @@ design:
 3. Foundations of Mathematics
 4. Linear Algebra
 5. Linear Optimization
-6. Abstract Vector Spaces (forthcoming)
-7. Mathematical Statistics I, Probability & Statistics II (forthcoming) 
-8. Real Analysis I, Real Analysis II (forthcoming)
-9. Mathematical Economics (forthcoming)
+6. Abstract Vector Spaces
+7. Mathematical Statistics I
+8. Probability and Statistics II
+9. Real Analysis I
+10. Real Analysis II
+11. Mathematical Economics
 
 **Economics Courses**
-1. Principles of Microeconomics, Intermediate Microeconomics
-2. Principles of Macroeconomics, Intermediate Macroeconomics
-3. Econometrics, Financial Econometrics
-4. Empirical Methods & Machine Learning
+1. Two semesters of microeconomics
+2. Two semesters of macroeconomics
+3. Econometrics
+4. Financial Econometrics
+5. Empirical Methods & Machine Learning
 
 **Miscellaneous Courses**
 1. Introduction to Computer Science (Java)
 2. Introduction to Statistical Computing (R)
-3. Python Programming
+3. Programming in Python
 4. Applied Regression Analysis
 5. Statistical Modeling
 
