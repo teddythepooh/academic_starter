@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
 - Econometrics & Statistics
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BA, Mathematics and Economics
+  - course: BSc, Applied Mathematics & Statistics
     institution: Emory University
     year: 2021
 
@@ -62,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth-year Mathematics and Economics major at Emory University. To prepare for graduate school in biostatistics, I am seeking research positions where I can apply my skills in data analysis. 
+-
