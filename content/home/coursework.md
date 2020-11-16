@@ -24,17 +24,26 @@ design:
 
 **Statistics Courses**
 10. Mathematical Statistics I
+
 11. Probability and Statistics II
+
 12. Applied Regression Analysis
+
 13. Statistical Modeling
+
 14. Econometrics
+
 15. Financial Econometrics
 
 **Computing Courses**
 16. Introduction to Computer Science (Java)
+
 17. Introduction to Statistical Computing (R)
+
 18. Python Programming
+
 19. Elements of Data Science (Python, R, SQL)
+
 20. Empirical Methods & Machine Learning (Python, R)
 
 
