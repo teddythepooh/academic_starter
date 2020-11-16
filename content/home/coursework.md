@@ -12,31 +12,30 @@ design:
 ---
 
 **Mathematics Courses**
-1. Single Variable Calculus
-2. Multivariable Calculus
+1. Multivariable Calculus
+2. Differential Equations
 3. Foundations of Mathematics
 4. Linear Algebra
-5. Linear Optimization
-6. Abstract Vector Spaces
-7. Mathematical Statistics I
-8. Probability and Statistics II
-9. Real Analysis I
-10. Real Analysis II
-11. Mathematical Economics
+5. Abstract Vector Spaces
+6. Numerical Analysis
+7. Intro to Combinatorics
+8. Linear Optimization
+9. Nonlinear Optimization
 
-**Economics Courses**
-1. Two semesters of microeconomics
-2. Two semesters of macroeconomics
-3. Econometrics
-4. Financial Econometrics
-5. Empirical Methods & Machine Learning
+**Statistics Courses**
+10. Mathematical Statistics I
+11. Probability and Statistics II
+12. Applied Regression Analysis
+13. Statistical Modeling
+14. Econometrics
+15. Financial Econometrics
 
-**Miscellaneous Courses**
-1. Introduction to Computer Science (Java)
-2. Introduction to Statistical Computing (R)
-3. Programming in Python
-4. Applied Regression Analysis
-5. Statistical Modeling
+**Computing Courses**
+16. Introduction to Computer Science (Java)
+17. Introduction to Statistical Computing (R)
+18. Python Programming
+19. Elements of Data Science (Python, R, SQL)
+20. Empirical Methods & Machine Learning (Python, R)
 
 
 
