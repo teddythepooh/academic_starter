@@ -25,10 +25,6 @@ subtitle = ""
 name = "Portfolio"
 tag = "portfolio"
 
-[[content.filter_button]]
-name = "Training"
-tag = "training"
-  
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -39,7 +35,7 @@ tag = "training"
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 1
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
