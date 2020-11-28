@@ -1,6 +1,6 @@
 ---
 title: Song Genre Prediction
-summary: Implemented tree-based methods on Spotify data to predict the genre of a song based on audio features.
+summary: Implemented tree-based methods on Spotify data to predict the genre of a song based on audio features
 tags:
 - all
 - portfolio

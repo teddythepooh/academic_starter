@@ -1,6 +1,6 @@
 ---
 title: Text Analysis of Bruno Mars' Music
-summary: Scraped 28 song lyrics using the Genius API to compare & contrast Bruno Mars’ three studio albums through word frequencies and sentiment analysis.
+summary: Utilized word frequencies and sentiment analysis to compare & contrast Bruno Mars’ three studio albums
 tags:
 - all
 - portfolio
