@@ -1,5 +1,5 @@
 ---
-title: 4. Cardiovascular Disease Classification
+title: 5. Cardiovascular Disease Classification
 summary: Performed regularized logistic regression to classify cardiovascular disease, achieving an accuracy of 70%.
 tags:
 - all
