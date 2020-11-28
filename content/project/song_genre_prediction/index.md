@@ -1,5 +1,5 @@
 ---
-title: Song Genre Prediction
+title: 1. Song Genre Prediction
 summary: Implemented tree-based methods on Spotify data to predict the genre of a song based on audio features
 tags:
 - all

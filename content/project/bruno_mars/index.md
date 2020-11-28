@@ -1,5 +1,5 @@
 ---
-title: Text Analysis of Bruno Mars' Music
+title: 2. Text Analysis of Bruno Mars' Music
 summary: Utilized word frequencies and sentiment analysis to compare & contrast Bruno Mars’ three studio albums
 tags:
 - all
