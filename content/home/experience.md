@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-09-01"
   description = """
     * Resolved a 9-month backlog of alumni data update requests by writing a Python script that automatically matches the requests with the alumni's unique identification numbers in the master data
-    * Optimized the monthly process of finding discrepancies in active users between two systems that are used for alumni relations, reducing the time it takes to finish the task by 80\% through Python (from 120 minutes down to 25 minutes)
+    * Optimized the monthly process of finding discrepancies in active users between two systems that are used for alumni relations, reducing the time it takes to finish the task by 80% through Python (from 120 minutes down to 25 minutes)
     * Conducted weekly audits of alumni events on the back-end of the alumni website to ensure that they were properly created
     * Provided technical assistance by email to 200+ alumni who faced difficulty in utilizing alumni resources online
   """
