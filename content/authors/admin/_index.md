@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BA, Mathematics and Economics
+  - course: BSc, Quantitative Economics (QSS)
     institution: Emory University
     year: 2021
 
@@ -62,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth-year Mathematics and Economics major at Emory University. I am currently seeking positions where I can apply my skills in data analysis.
+I am a fourth-year Quantitative Economics (QSS) major at Emory University. I am currently seeking positions where I can apply my skills in data analysis.
