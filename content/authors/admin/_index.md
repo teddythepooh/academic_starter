@@ -62,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-I am a senior at Emory  University graduating this summer with a B.S. in Quantitative Economics (QSS). Having been born and raised in Naga City, Philippines, I lived under a poor public health system growing up; the dengue epidemic was especially prevalent when I was in elementary school. This systemic problem persists with the COVID-19 pandemic today. Using my economics degree, I aim to pursue a career where I can play a critical role in maintaining the health of my community. I am currently looking for positions in health policy research where I can apply my skills in data analysis.
+I am a senior at Emory  University graduating this summer with a B.S. in Quantitative Economics (QSS). Having been born and raised in Naga City, Philippines, I lived under a poor public health system growing up; the dengue epidemic was especially prevalent when I was in elementary school. This systemic problem persists with the COVID-19 pandemic today. Using my economics degree, I aim to pursue a career where I can play a critical role in maintaining the health of my community.
