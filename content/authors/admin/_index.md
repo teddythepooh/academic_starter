@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student
+role: Recent College Grad
 
 # Organizations/Affiliations
 organizations:
@@ -62,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-I am a senior at Emory University graduating this summer with a B.S. in Quantitative Economics (QSS). I am currently looking for full-time positions in data analytics.
+I graduated from Emory University this summer with a B.S. in Quantitative Economics (QSS). I am currently looking for full-time positions in data analytics.
