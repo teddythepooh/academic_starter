@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: BSc, Quantitative Economics
+  - course: BSc, Quantitative Economics (QSS)
     institution: Emory University
-    year: Summer 2021
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +44,7 @@ social:
   link: 'mailto:chuatedjesusc@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://linkedin/in/teddyjesus
+  link: https://www.linkedin.com/in/teddyjesus/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
