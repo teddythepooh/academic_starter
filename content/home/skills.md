@@ -31,7 +31,6 @@ subtitle = ""
   icon_pack = "fab"
   name = "R"
   description = ""
-  
 
 
 # Uncomment to use emoji icons.

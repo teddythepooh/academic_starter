@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: BSc, Quantitative Economics (QSS)
+  - course: BSc, Quantitative Economics
     institution: Emory University
-    year: 2021
+    year: Summer 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
