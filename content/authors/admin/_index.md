@@ -62,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-I graduated from Emory University this summer with a B.S. in Quantitative Economics (QSS). I am currently looking for full-time positions in data analytics.
+I graduated from Emory University last summer with a B.S. in Quantitative Economics (QSS). I am currently looking for full-time positions in data analytics.
