@@ -62,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-I graduated from Emory University last summer with a B.S. in Quantitative Economics (QSS). I am currently looking for full-time positions in data analytics.
+I graduated from Emory University in 2021 with a B.S. in Quantitative Economics (QSS). I currently work as a Data Project Associate at the Urban Crime and Education Lab in Chicago.
