@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Recent College Grad
+role: Project Associate
 
 # Organizations/Affiliations
 organizations:
@@ -62,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-I graduated from Emory University in 2021 with a B.S. in Quantitative Economics (QSS). I currently work as a Data Project Associate at the Urban Crime and Education Lab in Chicago.
+I graduated from Emory University in 2021 with a B.S. in Quantitative Economics (QSS). I currently work as a Data Project Associate at the Urban Crime Lab in Chicago.
