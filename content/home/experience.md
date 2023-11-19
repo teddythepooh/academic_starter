@@ -21,17 +21,10 @@ date_format = "Jan 2006"
   title = "Data Analytics Associate"
   company = "Crime Lab, University of Chicago"
   company_url = ""
-  location = "Atlanta, GA"
-  date_start = "2020-09-01"
-  date_end = "2021-04-01"
+  location = "Chicago, IL"
+  date_start = "2022-07-01"
+  date_end = ""
   description = """
-    ∗ Conduct statistical analysis of randomized controlled trials using Python and R that implement and evaluate violence intervention
-    initiatives at the University of Chicago
-    ∗ Develop experimental designs to address research questions in collaboration with all levels of internal staff
-    ∗ Maintain GitLab codebases and engage in peer code review for replicability and compliance with data privacy regulations
-    ∗ Mentor a summer-fall intern by managing workstreams and setting weekly check-ins to foster professional development
-    ∗ Wrote and deployed a web scraper in Python that autonomously scraped 150,000+ observations across 5000 pages from a
-    public database to inform PLA programming
   """
 [[experience]]
   title = "Image Analyst"
