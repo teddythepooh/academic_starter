@@ -21,9 +21,9 @@ subtitle = ""
   description = "" 
 
 [[feature]]
-  icon = "chart-line"
+  icon = "sql"
   icon_pack = "fas"
-  name = "Data Analysis"
+  name = "SQL"
   description = "" 
 
 [[feature]]
