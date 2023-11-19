@@ -14,7 +14,7 @@ role: Data Analytics Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Emory University
+- name: Crime Lab, University of Chicago
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
