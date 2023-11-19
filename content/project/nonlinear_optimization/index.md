@@ -1,5 +1,5 @@
 ---
-title: 4. Spectral Clustering of Music
+title: 3. Spectral Clustering of Music
 summary: 
 tags:
 - all
