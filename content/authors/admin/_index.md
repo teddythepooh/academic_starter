@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Data Analyst
+role: Research Analyst
 
 # Organizations/Affiliations
 organizations:
@@ -62,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-I graduated from Emory University in 2021 with a B.S. in Quantitative Economics. I am currently an Associate Data Analyst at the Crime Lab of the University of Chicago.
+I am currently a Research Analyst at the Crime Lab of the University of Chicago, where I conduct statistical analysis in a randomized controlled trial setting. I graduated from Emory University in 2021 with a B.S. in Quantitative Economics. Broadly, my professional interests are public health and data science.
