@@ -62,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently a Research Analyst at the Crime Lab of the University of Chicago, where I conduct statistical analysis in a randomized controlled trial setting. I graduated from Emory University in 2021 with a B.S. in Quantitative Economics. Broadly, my professional interests are public health and data science.
+I am currently a Data Analyst at the University of Chicago Crime Lab, where I conduct statistical analysis in a randomized controlled trial setting. I graduated from Emory University in 2021 with a B.S. in Quantitative Economics. Broadly, my professional interests are public health and data science.
