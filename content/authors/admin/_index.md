@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Analyst
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Crime Lab, University of Chicago
+- name: UChicago Urban Labs
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -62,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently a Data Analyst at the University of Chicago Crime Lab, where I conduct statistical analysis in a randomized controlled trial setting. I graduated from Emory University in 2021 with a B.S. in Quantitative Economics. Broadly, my professional interests are public health and data science.
+I am a Research Scientist at the University of Chicago Urban Labs, where I engineer data pipelines and translate large-scale experiments into technical specifications. I graduated from Emory University in 2021 with a B.S. in Quantitative Economics. My goal is to break into the banking and financial services industry as a (Senior) Data Analyst, eventually working in deterring financial crimes (sanctions and anti-money laundering).
