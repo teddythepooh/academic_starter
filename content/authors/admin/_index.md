@@ -62,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Research Scientist at the University of Chicago Urban Labs, where I engineer data pipelines and translate large-scale experiments into technical specifications. I graduated from Emory University in 2021 with a B.S. in Quantitative Economics. Broadly, my professional interests are public health and data science.
+I am a Research Scientist at the University of Chicago Urban Labs, where I engineer data pipelines and translate large-scale experiments into technical specifications. I graduated from Emory University in 2021 with a B.S. in Quantitative Economics. My goal is to break into the banking and financial services industry as a (Senior) Data Analyst, eventually working in deterring financial crimes (sanctions and anti-money laundering).
